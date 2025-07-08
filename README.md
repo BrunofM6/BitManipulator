@@ -1,4 +1,4 @@
-# BitManipulator
+# bit-manipulator
 ## Description
 Small C program that manipulates bits through masks and bit-wise operations and interacts with a user given byte (with base 10). It is capable of doing all the most important bit operations to it. It takes in three inputs, the action, an uint8_t and the index to operate on. Possible actions:
 - h ->test if a certain bit is high;
